@@ -38,8 +38,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Nakhtt-dev/Nakhtt-dev/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
